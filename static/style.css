@@ -1,0 +1,16 @@
+*{
+    background-color: red;
+    
+}
+
+
+#card {
+    width: 800px;
+    background-color: red;
+    display: inline-block;
+}
+#box {
+    border: white solid 3px;
+    display: inline-block;
+    width: 150px;
+}
